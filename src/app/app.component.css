@@ -1,0 +1,12 @@
+div {
+font-size:xx-large;
+}
+.text-success{
+  color: orange;
+}
+.text-warning{
+  color:green;
+  box-shadow: 0cm;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: blueviolet;
+}
